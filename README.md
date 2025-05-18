@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Ecommerce Project**
+- 👯 I’m looking to collaborate on **Ecommerce Project with payment system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Topu492](https://github.com/Topu492)
 
