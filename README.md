@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topu492&label=Profile%20views&color=0e75b6&style=flat" alt="topu492" /> </p>
 
-- 🔭 I worked as software enginner in IGL Web Ltd [https://iglweb.com/web/](https://iglweb.com/web/)
+- 🔭 I worked as PHP Developer in IGL Web Ltd [https://iglweb.com/web/](https://iglweb.com/web/)
 
 - 🌱 I’m currently learning **Javascript**
 
